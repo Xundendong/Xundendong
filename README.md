@@ -10,7 +10,6 @@
 
 ### 🧩 About Me  
 - 🔭 Currently focusing on **embodied AI** and **intelligent perception**  
-- 🌱 Previously worked on **multivariate time-series anomaly detection** and **VQGAN-based representation learning**  
 - 🏆 **Kaggle Enthusiast** — highest competition rank **884 / 202,251**  
 - 💬 Always open to discussing **AI for physical intelligence** and **data-centric AI research**
 
