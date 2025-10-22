@@ -1,5 +1,6 @@
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xundendong&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="github-stats" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xundendong&show_icons=true&hide_border=true" alt="Xuandong Liang's Github Stats" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xundendong&layout=compact&hide_border=true&langs_count=10" alt="Xuandong Liang's Top Langs" width="37%" /> 
 </p>
 
 ## Hi there 👋 I'm Xuandong Liang  
