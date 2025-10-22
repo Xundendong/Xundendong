@@ -1,6 +1,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Xundendong&show_icons=true&hide_border=true" alt="Xuandong Liang's Github Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xundendong&layout=compact&hide_border=true&langs_count=10" alt="Xuandong Liang's Top Langs" width="37%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xundendong&layout=compact&hide_border=true&langs_count=10&v=1" width="37%" />
+
 </p>
 
 ## Hi there 👋 I'm Xuandong Liang  
