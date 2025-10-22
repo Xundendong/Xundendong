@@ -1,6 +1,5 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Xundendong&show_icons=true&hide_border=true" alt="Xuandong Liang's Github Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xundendong" />
 
 </p>
 
