@@ -15,7 +15,7 @@
 
 ### 🧩 About Me  
 - 🔭 Currently focusing on **embodied AI** and **intelligent perception**  
-- 🏆 **Kaggle Enthusiast** — highest competition rank **884 / 202,251**  
+- 🏆 **Kaggle Competition Expert | Peak World Ranking: 884 (Top 0.5%) out of 202,251.**  
 - 💬 Always open to discussing **AI for physical intelligence** and **data-centric AI research**
 
 ### 📫 Get in Touch  
