@@ -20,4 +20,4 @@
 - 🧑‍💻 GitHub: [Xundendong](https://github.com/Xundendong)
 
   
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,docker,git,linux,matlab,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,docker,git,linux,pytorch,matlab,mysql&theme=light)](https://skillicons.dev)
