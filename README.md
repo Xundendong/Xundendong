@@ -18,3 +18,6 @@
 ### 📫 Get in Touch  
 - ✉️ Email: <a href="mailto:2487110068@qq.com">2487110068@qq.com</a>  
 - 🧑‍💻 GitHub: [Xundendong](https://github.com/Xundendong)
+
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
