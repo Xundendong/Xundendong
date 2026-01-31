@@ -12,7 +12,7 @@
 
 ### 🧩 About Me  
 - 🔭 Currently focusing on **embodied AI** 
-- 🏆 **Kaggle Competition Expert | Peak World Ranking: 653 (Top 0.3%)**  
+- 🏆 **Kaggle Competition Expert | Peak World Ranking: 616 (Top 0.3%)**  
 - 💬 Always open to discussing **AI for physical intelligence** and **data-centric AI research**
 
 ### 📫 Get in Touch  
