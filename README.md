@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Xuandong Liang  
 
-🎓 **Ph.D. Student** in Computer Science at **University of Chinese Academy of Sciences **  
+🎓 **Ph.D. Student** in Computer Science at **University of Chinese Academy of Sciences**  
 💡 **B.S. in Artificial Intelligence**, **Beijing Normal University**
 
 ### 🧠 Research Interests  
