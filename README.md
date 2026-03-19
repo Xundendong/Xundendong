@@ -21,5 +21,5 @@
 
   
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,docker,git,linux,pytorch,matlab,mysql&theme=light)](https://skillicons.dev)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyh3699&theme=radical" width="100%" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
