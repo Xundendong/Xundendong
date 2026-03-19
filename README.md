@@ -21,3 +21,9 @@
 
   
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,docker,git,linux,pytorch,matlab,mysql&theme=light)](https://skillicons.dev)
+
+</div>
+  
+  <!-- 添加动态贡献热图 -->
+  <img src="https://github-profile-trophy.vercel.app/?username=zyh3699&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
+</div>
